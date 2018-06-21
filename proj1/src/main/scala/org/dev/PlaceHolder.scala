@@ -1,5 +1,5 @@
 package org.dev
 
-object PlaceHolder {
-  
+object PlaceHolder extends App {
+  println("Hello World!")
 }
