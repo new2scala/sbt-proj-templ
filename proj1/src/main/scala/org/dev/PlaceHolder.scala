@@ -1,5 +1,5 @@
 package org.dev
 
-object PlaceHolder extends App {
-  println("Hello World!")
+object PlaceHolder {
+  def sayHi(who:String): String = s"Hello $who!"
 }
